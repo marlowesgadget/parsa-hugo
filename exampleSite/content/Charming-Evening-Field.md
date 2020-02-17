@@ -1,5 +1,5 @@
 ---
-title: ゆげ焙煎所！西宮のオシャレな珈琲
+title: ゆげ焙煎所！西宮のオシャレな珈琲専門店。
 date: 2020-02-17T00:00:00+09:00
 description: This is meta description
 type: post
