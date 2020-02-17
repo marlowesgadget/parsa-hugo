@@ -5,6 +5,7 @@ description: This is meta description
 type: post
 image: "/images/IMG_17022020_131631_(800_x_600_ピクセル).jpg"
 categories:
+- Cafe
 - Food
 tags:
 - Food
