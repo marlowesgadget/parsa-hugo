@@ -1,6 +1,6 @@
 ---
 title: ゆげ焙煎所！西宮のオシャレな珈琲専門店。
-date: 2020-02-17T00:00:00+09:00
+date: 2020-02-16T15:00:00.000+00:00
 description: This is meta description
 type: post
 image: "/images/IMG_17022020_131631_(800_x_600_ピクセル).jpg"
@@ -40,7 +40,4 @@ tags:
 
 ![](/images/IMG_17022020_132452_(800_x_600_ピクセル).jpg)
 
-    
-
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
- 
